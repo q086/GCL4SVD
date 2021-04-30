@@ -1,0 +1,14 @@
+ train_loss=1.03543  val_loss=1.03025 val_f1=0.256test_loss=1.03977test_accuracy=0.537 test_pre=0.480  test_recall=0.166  test_f1=0.247  best_f1=0.247 test_mcc=0.020
+ train_loss=0.91655  val_loss=0.90587 val_f1=0.257test_loss=0.91808test_accuracy=0.556 test_pre=0.547  test_recall=0.167  test_f1=0.256  best_f1=0.256 test_mcc=0.073
+ train_loss=0.86642  val_loss=0.87211 val_f1=0.304test_loss=0.88760test_accuracy=0.568 test_pre=0.570  test_recall=0.219  test_f1=0.317  best_f1=0.317 test_mcc=0.104
+ train_loss=0.82973  val_loss=0.84311 val_f1=0.430test_loss=0.85268test_accuracy=0.592 test_pre=0.590  test_recall=0.350  test_f1=0.440  best_f1=0.440 test_mcc=0.163
+ train_loss=0.82791  val_loss=0.81804 val_f1=0.487test_loss=0.83383test_accuracy=0.602 test_pre=0.594  test_recall=0.406  test_f1=0.483  best_f1=0.483 test_mcc=0.185
+ train_loss=0.72512  val_loss=0.80185 val_f1=0.505test_loss=0.81356test_accuracy=0.601 test_pre=0.582  test_recall=0.449  test_f1=0.507  best_f1=0.507 test_mcc=0.185
+ train_loss=0.64050  val_loss=0.78646 val_f1=0.522test_loss=0.80042test_accuracy=0.613 test_pre=0.593  test_recall=0.490  test_f1=0.537  best_f1=0.537 test_mcc=0.212
+ train_loss=0.61375  val_loss=0.77475 val_f1=0.523test_loss=0.78593test_accuracy=0.618 test_pre=0.597  test_recall=0.504  test_f1=0.546  best_f1=0.546 test_mcc=0.222
+ train_loss=0.43436  val_loss=0.83454 val_f1=0.526test_loss=0.86915test_accuracy=0.607 test_pre=0.583  test_recall=0.496  test_f1=0.536  best_f1=0.546 test_mcc=0.201
+ train_loss=0.42069  val_loss=0.84097 val_f1=0.541test_loss=0.88255test_accuracy=0.607 test_pre=0.579  test_recall=0.514  test_f1=0.545  best_f1=0.546 test_mcc=0.203
+ train_loss=0.26329  val_loss=1.24724 val_f1=0.546test_loss=1.25710test_accuracy=0.596 test_pre=0.563  test_recall=0.519  test_f1=0.540  best_f1=0.546 test_mcc=0.181
+ train_loss=0.16148  val_loss=1.33058 val_f1=0.558test_loss=1.33770test_accuracy=0.605 test_pre=0.572  test_recall=0.541  test_f1=0.556  best_f1=0.556 test_mcc=0.201
+ train_loss=0.23221  val_loss=1.35067 val_f1=0.571test_loss=1.36979test_accuracy=0.590 test_pre=0.548  test_recall=0.587  test_f1=0.567  best_f1=0.567 test_mcc=0.178
+end

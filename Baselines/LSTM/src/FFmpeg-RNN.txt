@@ -1,0 +1,4 @@
+ train_loss=1.05778  val_loss=1.05088 val_f1=0.581test_loss=1.05417test_accuracy=0.511 test_pre=0.487  test_recall=0.592  test_f1=0.534  best_f1=0.534 test_mcc=0.030
+ train_loss=1.00869  val_loss=1.00433 val_f1=0.588test_loss=1.00991test_accuracy=0.515 test_pre=0.491  test_recall=0.613  test_f1=0.545  best_f1=0.545 test_mcc=0.040
+ train_loss=0.84686  val_loss=0.88068 val_f1=0.593test_loss=0.89213test_accuracy=0.535 test_pre=0.508  test_recall=0.590  test_f1=0.546  best_f1=0.546 test_mcc=0.076
+end
