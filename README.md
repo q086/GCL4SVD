@@ -1,5 +1,4 @@
 # GCL4SVD
-# GCL4SVD
 Graph Confident Learning for Software Vulnerability Detection
 ## Environment Setup
 Python library dependencies:
@@ -21,15 +20,21 @@ Denoise the data of training set to get “datasetname_ train_ clean.jsonl” fi
 If you want to replace the dataset, you can use the variable dataset = 'dataset name' in the related files. And you can modify the parameters in the files to suit your needs.
 * Dataset format conversion and processing: 
 
-  `python data_process.py`
+  `
+  python data_process.py
+  `
  
 * Composition preparation:
   
-  `python remove_words.py`
+  `
+  python remove_words.py
+  `
  
 * Code composition:
    
-  `python build_graph.py`
+  `
+  python build_graph.py
+  `
   
 * GCL denoising：
     
