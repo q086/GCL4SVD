@@ -1,5 +1,6 @@
 # GCL4SVD
 Graph Confident Learning for Software Vulnerability Detection
+
 ## Environment Setup
 Python library dependencies:
 
@@ -10,7 +11,7 @@ Python library dependencies:
 * cleanlab -v : 0.1.1
 * others: sklearn
 
-##  Data Preprocessing
+## Data Preprocessing
 Zhou, Y., Liu, S., Siow, J., Du, X., \& Liu, Y. Devign: Effective vulnerability identification by learning comprehensive program semantics via graph neural networks. Conference on Neural Information Processing Systems. (2019), 10197-10207
 
 We also uploaded the corresponding datasets.
