@@ -15,7 +15,7 @@ Python library dependencies:
 Zhou, Y., Liu, S., Siow, J., Du, X., \& Liu, Y. Devign: Effective vulnerability identification by learning comprehensive program semantics via graph neural networks. Conference on Neural Information Processing Systems. (2019), 10197-10207
 
 We also uploaded the corresponding datasets.
-## GCLD
+## GCL
 Denoise the data of training set to get “datasetname_ train_ clean.jsonl” file.
 
 If you want to replace the dataset, you can use the variable dataset = 'dataset name' in the related files. And you can modify the parameters in the files to suit your needs.
