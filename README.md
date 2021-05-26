@@ -62,4 +62,4 @@ If you want to replace the dataset, you can use the variable dataset = 'dataset 
   `python train.py`
   
 ## Baselines
-We choose Transformer, LSTM, Devign as our baseline model, and their code is in the Baselines folder.
+We choose Transformer, LSTM, Devign, GGNN as our baseline model. The code of GGNN is the same as SVD part, which uses the original datasets. For the rest of baselines, their code is in the Baselines folder.
