@@ -65,7 +65,7 @@ If you want to replace the dataset, you can use the variable dataset = 'dataset 
   python build_graph.py
   ```
   
-* Training:
+* Training and testing:
 
   ```
   python train.py
